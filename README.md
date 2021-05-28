@@ -10,4 +10,4 @@ Training a model to classify data based on the data's features can be intimidati
 3. We will be using a simple Logistic Regression Model for this task
 
 # Conclusion
-The model we have created is able to classify about 95.6% of the test data correctly which is pretty good. I hope that through this simple example, it is able to help people that are new to machine learning to understand the process from data collection to training and classification, and feel more confident when embarking onto more advanced projects and topics in machine learning. All the best!
+The model we have created is able to classify about 93.9% of the test data correctly which is pretty good. I hope that through this simple example, it is able to help people that are new to machine learning to understand the process from data collection to training and classification, and feel more confident when embarking onto more advanced projects and topics in machine learning. All the best!
